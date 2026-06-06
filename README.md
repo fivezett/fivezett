@@ -1,5 +1,3 @@
-<div align="center">
-
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
@@ -13,8 +11,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fivezett/fivezett/output/github-contribution-grid-snake.svg" />
   <img alt="contribution snake animation" src="https://raw.githubusercontent.com/fivezett/fivezett/output/github-contribution-grid-snake.svg" />
 </picture>
-
-</div>
 
 ## 📰 Recent Activity
 
