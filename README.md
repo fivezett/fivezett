@@ -16,7 +16,7 @@
 ## 📰 Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/fivezett/portable-gemma-win/pull/4) in [fivezett/portable-gemma-win](https://github.com/fivezett/portable-gemma-win)
+1. 💪 Opened PR [#16](https://github.com/fivezett/vrc_yt_dlp_bridge/pull/16) in [fivezett/vrc_yt_dlp_bridge](https://github.com/fivezett/vrc_yt_dlp_bridge)
 2. 💪 Opened PR [#4](https://github.com/fivezett/portable-gemma-win/pull/4) in [fivezett/portable-gemma-win](https://github.com/fivezett/portable-gemma-win)
 3. 🎉 Merged PR [#3](https://github.com/fivezett/portable-gemma-win/pull/3) in [fivezett/portable-gemma-win](https://github.com/fivezett/portable-gemma-win)
 4. 💪 Opened PR [#3](https://github.com/fivezett/portable-gemma-win/pull/3) in [fivezett/portable-gemma-win](https://github.com/fivezett/portable-gemma-win)
